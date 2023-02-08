@@ -9,4 +9,4 @@ GNU Privacy Guard for Decryption
 gpg --output original_message.txt --decrypt message.gpg
 
 --example<br>
-  ---- gpg --output mymessage.txt --decrypt mymessage.gpg
+  gpg --output mymessage.txt --decrypt mymessage.gpg
