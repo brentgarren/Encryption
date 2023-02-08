@@ -16,6 +16,12 @@ gpg --output original_message.txt --decrypt message.gpg
 
 
 -------------------
+OPENSSL for Encryption
+https://www.openssl.org/ <br>
 
-OPENSSL<br>
-https://www.openssl.org/
+openssl aes-256-cbc -e -in message.txt -out encrypted_message
+
+-------------------
+
+OPENSSL for Decryption
+openssl aes-256-cbc -d -in encrypted_message -out original_message.txt
