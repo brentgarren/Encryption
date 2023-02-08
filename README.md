@@ -1,7 +1,9 @@
 # Encryption
 
 GNU Privacy Guard for Encryption<br>
-gpg --symmetric --cipher-algo CIPHER message.txt, where "CIPHER=encryption algorithm" You can see a list of encryption methods via "gpg --version"
+gpg --symmetric --cipher-algo CIPHER message.txt, <br>
+where "CIPHER=encryption algorithm" <br>
+You can see a list of encryption methods via "gpg --version"
 
 -----------------------
 
