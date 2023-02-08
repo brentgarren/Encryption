@@ -11,4 +11,5 @@ GNU Privacy Guard for Decryption <br>
 gpg --output original_message.txt --decrypt message.gpg
 
 --example<br>
-  gpg --output mymessage.txt --decrypt mymessage.gpg
+  ![decrypt](https://user-images.githubusercontent.com/105601437/217442653-b0ce251d-76c9-4dff-8bd9-d65e2484e60a.png) <br>
+
