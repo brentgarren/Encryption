@@ -1,6 +1,7 @@
 # Encryption
 
 GNU Privacy Guard for Encryption<br>
+https://gnupg.org/<br>
 gpg --symmetric --cipher-algo CIPHER message.txt, <br>
 where "CIPHER=encryption algorithm" <br>
 You can see a list of encryption methods via "gpg --version"
@@ -15,3 +16,6 @@ gpg --output original_message.txt --decrypt message.gpg
 
 
 -------------------
+
+OPENSSL<br>
+https://www.openssl.org/
