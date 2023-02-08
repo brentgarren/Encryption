@@ -5,7 +5,7 @@ gpg --symmetric --cipher-algo CIPHER message.txt, where "CIPHER=encryption algor
 
 -----------------------
 
-GNU Privacy Guard for Decryption
+GNU Privacy Guard for Decryption <br>
 gpg --output original_message.txt --decrypt message.gpg
 
 --example<br>
